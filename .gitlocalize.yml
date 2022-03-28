@@ -1,7 +1,5 @@
-synchronize:
+pretranslate:
   paths:
   - source: .
-    exclude:
-        - "FilePicture.md"
     include:
-        - "FilePicture.md"
+      - "checkpoint.ipynb"
