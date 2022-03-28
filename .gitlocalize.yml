@@ -3,3 +3,5 @@ synchronize:
   - source: .
     exclude:
         - "FilePicture.md"
+    include:
+        - "FilePicture.md"
