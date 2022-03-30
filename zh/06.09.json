@@ -1,0 +1,39 @@
+{
+  "physics": [
+    {
+      "name": "力学",
+      "sections": [
+        {
+          "name": "运动学",
+          "complexity": "平均的",
+          "interest": "伟大的",
+          "bool": "真的"
+        },
+        {
+          "name": "流体动力学",
+          "complexity": "4",
+          "interest": "3",
+          "bool": "错误的"
+        }
+      ]
+    },
+    {
+      "note": "添加",
+      "useful links": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "电",
+      "sections": [
+        {
+          "name": "静电学",
+          "complexity": "四",
+          "interest": "五"
+        }
+      ]
+    }
+  ]
+}
